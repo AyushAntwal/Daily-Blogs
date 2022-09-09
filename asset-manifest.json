@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Daily-Blogs/static/css/main.3fef3ca7.css",
+    "main.js": "/Daily-Blogs/static/js/main.e6bf9c4a.js",
+    "static/media/empty.png": "/Daily-Blogs/static/media/empty.d931f8e8b9ca19de5148.png",
+    "index.html": "/Daily-Blogs/index.html",
+    "main.3fef3ca7.css.map": "/Daily-Blogs/static/css/main.3fef3ca7.css.map",
+    "main.e6bf9c4a.js.map": "/Daily-Blogs/static/js/main.e6bf9c4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fef3ca7.css",
+    "static/js/main.e6bf9c4a.js"
+  ]
+}
